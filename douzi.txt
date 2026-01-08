@@ -14,8 +14,8 @@ control/
 ├── tiantian.txt   true
 ├── haikuotiankong.txt   true
 ├── qinshubao.txt   true
-├── xichubawang.txt   true
 ├── qiankundaluoyi.txt   true
+
 
 
 
