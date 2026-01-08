@@ -1,20 +1,12 @@
 control/
-├── henan.txt   true
-├── hebei.txt   true
-├── beijing.txt   true
-├── huijian.txt   true
 ├── tian.txt   true
 ├── shenzhen.txt   true
 ├── dongwan.txt   true
-├── guangzhou.txt   true
-├── zhongshan.txt   true
-├── huizhou.txt   true
-├── shaoguan.txt   true
-├── chaozhou.txt   true
 ├── tiantian.txt   true
 ├── haikuotiankong.txt   true
 ├── qinshubao.txt   true
 ├── qiankundaluoyi.txt   true
+
 
 
 
